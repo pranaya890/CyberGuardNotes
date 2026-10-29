@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "70fc9bf88c3fd17e",
+        "id": "317d8f1fa82678e3",
         "type": "tabs",
         "children": [
           {
-            "id": "ecd8b8d75fb0b9f1",
+            "id": "b8216881aba2a78d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -181,6 +181,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "ecd8b8d75fb0b9f1",
-  "lastOpenFiles": []
+  "active": "b8216881aba2a78d",
+  "lastOpenFiles": [
+    "Introduction.md",
+    "Networking/Ip Addressing.md",
+    "Assets/Pasted image 20261029195535.png",
+    "Assets/Pasted image 20261029195525.png",
+    "Assets/Pasted image 20261029195446.png",
+    "Assets",
+    "Networking/Subnetting Oct 29.md",
+    "README.md",
+    "Welcome.md",
+    "Networking"
+  ]
 }
